@@ -1,0 +1,17 @@
+boot\usbd_core.o: ..\module\CherryUSB\core\usbd_core.c
+boot\usbd_core.o: ..\module\CherryUSB\core\usbd_core.h
+boot\usbd_core.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+boot\usbd_core.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+boot\usbd_core.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+boot\usbd_core.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+boot\usbd_core.o: ..\module\CherryUSB\core\usb_config.h
+boot\usbd_core.o: ../module/CherryUSB/common/usb_util.h
+boot\usbd_core.o: ../module/CherryUSB/common/usb_errno.h
+boot\usbd_core.o: ../module/CherryUSB/common/usb_def.h
+boot\usbd_core.o: ../module/CherryUSB/common/usb_list.h
+boot\usbd_core.o: ../module/CherryUSB/common/usb_log.h
+boot\usbd_core.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+boot\usbd_core.o: ../module/CherryUSB/common/usb_dc.h
+boot\usbd_core.o: ../module/CherryUSB/common/usb_memcpy.h
+boot\usbd_core.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+boot\usbd_core.o: ../module/CherryUSB/common/usb_version.h
